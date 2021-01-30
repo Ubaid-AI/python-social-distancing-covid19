@@ -1,4 +1,4 @@
-# Social-Distancing-Analyser-COVID-19
+Social-Distancing-COVID19
 An AI tool to prevent spreading of coronavirus (COVID-19) by using computer vision on video surveillance.
 A social distancing analyzer AI tool to regulate social distancing protocol using video surveillance of CCTV cameras and drones. Social Distancing Analyser to prevent COVID19
 
@@ -16,10 +16,6 @@ Deploying it on current surveillance systems and drones used by police to monito
 * Doesn't collect any data of a particular person
 * Stores a video output for review
 
-## Things needed to be improved :
-* ~~Auto-calibration [For the given sample video, I've calibrated the model by simulating a 3D depth factor based on the camera position and orientation.]~~ (Check out v2.0)
-* Faster processing
-#### Please Note: angle factor is needed to be set between 0 to 1 for v2.0 according to the angle of camera (move towards one as angle becomes verticle)
 ## Installation:
 * Fork the repository and download the code.
 * Download the following files and place it in the same directory
